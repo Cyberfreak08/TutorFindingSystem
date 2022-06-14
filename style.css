@@ -1,0 +1,29 @@
+.body{
+ margin: 100%;
+}
+#btn-outer{
+    margin-top: 300px;
+}
+#btn1,#btn2{
+    font-size: 20px;
+    margin: 25px;
+}
+#btnStudent,#btnTutor{
+    width: 150px;
+    height: 45px;
+}
+/* #btns{
+    margin-block-start: 15%;
+}
+.btn1,.btn2{
+    margin-top: 13px;
+    margin-left: 42%;
+}
+button{
+    width: 200px;
+    height: 60px;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: ridge;
+} */
